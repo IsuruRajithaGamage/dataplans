@@ -4,8 +4,11 @@
 
 
 <section class="py-20">
+  <div class="bg-gradient-to-r from-green-400 to-blue-500 px-8 py-10">
+    <p class="text-8xl">Pick Your Plan</p>
+  </div>
     
-    <div class=" px-8">
+    <div class=" px-8 py-8">
         <div class="flex flex-wrap mx-2">
             <div class="w-full sm:w-1/2 nb-3 px-1">
                 <div class="p-2 bg-gradient-to-r from-yellow-400 h-full rounded-lg" >
@@ -21,37 +24,39 @@
             <h3 class="text-xl font-bold text-white px-10">DATA</h3>
           </div>
         </div>
-        <div class="bg-purple-400 rounded-lg font-bold mx-10">
-        <table class="table-auto  ">
+        <div class="bg-purple-400 rounded-lg mx-10">
+        <table class="table-fixed text-xl text-center ">
             <thead>
-              <tr>
-                <th>Provider.................</th>
-                <th>Price</th>
-                <th>Day</th>
-                <th>Night</th>
-                <th>Activate</th>
+              <tr class="bg-blue-200">
+                <th class="border border-purple-300">Provider</th>
+                <th class="border border-purple-300">Price</th>
+                <th class="border border-purple-300">Day</th>
+                <th class="border border-purple-300">Night</th>
+                <th class="w-1/4 border border-purple-300" >Activate</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>SLT</td>
-                <td>Rs.650</td>
-                <td>8GB</td>
-                <td>10GB</td>
-                <th>Dial #171# or 141 or sms INT D99 to 7678</th>
+                <td class="border border-purple-300">SLT broadband </td>
+                <td>Rs.650   </td>
+                <td class="border border-purple-300">8GB</td>
+                <td class="border border-purple-300">10GB</td>
+                <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 visit mobitel.lk</th>
 
               </tr>
               <tr class="bg-emerald-200">
-                <td>Mobitel</td>
-                <td>Rs.750</td>
-                <td>13GB</td>
-                <td>17GB</td>
+                <td class="border border-purple-300">Mobitel</td>
+                <td class="border border-purple-300">Rs.750</td>
+                <td class="border border-purple-300">13GB</td>
+                <td class="border border-purple-300">17GB</td>
+                <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
               </tr>
               <tr>
-                <td>Dialog</td>
-                <td>RS.600</td>
-                <td>8GB</td>
-                <td>13GB</td>
+                <td class="border border-purple-300">Dialog</td>
+                <td class="border border-purple-300">RS.600</td>
+                <td class="border border-purple-300">8GB</td>
+                <td class="border border-purple-300">13GB</td>
+                <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
               </tr>
             </tbody>
           </table>
@@ -71,36 +76,41 @@
               
             </div>
          </div>
-        <table class="table-auto  bg-purple-400 rounded-lg font-bold">
-            <thead>
-              <tr>
-                <th>Provider.................</th>
-                <th>Price</th>
-                <th>Day</th>
-                <th>Night</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>SLT</td>
-                <td>650</td>
-                <td>8GB</td>
-                <td>10GB</td>
-              </tr>
-              <tr class="bg-emerald-200">
-                <td>Mobitel</td>
-                <td>750</td>
-                <td>13GB</td>
-                <td>17GB</td>
-              </tr>
-              <tr>
-                <td>Dialog</td>
-                <td>600</td>
-                <td>8GB</td>
-                <td>13GB</td>
-              </tr>
-            </tbody>
-          </table>   
+         <table class="table-fixed text-xl text-center ">
+          <thead>
+            <tr class="bg-blue-200">
+              <th class="border border-purple-300">Provider</th>
+              <th class="border border-purple-300">Price</th>
+              <th class="border border-purple-300">Day</th>
+              <th class="border border-purple-300">Night</th>
+              <th class="w-1/4 border border-purple-300" >Activate</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="border border-purple-300">SLT broadband </td>
+              <td>Rs.650   </td>
+              <td class="border border-purple-300">8GB</td>
+              <td class="border border-purple-300">10GB</td>
+              <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 visit mobitel.lk</th>
+
+            </tr>
+            <tr class="bg-emerald-200">
+              <td class="border border-purple-300">Mobitel</td>
+              <td class="border border-purple-300">Rs.750</td>
+              <td class="border border-purple-300">13GB</td>
+              <td class="border border-purple-300">17GB</td>
+              <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
+            </tr>
+            <tr>
+              <td class="border border-purple-300">Dialog</td>
+              <td class="border border-purple-300">RS.600</td>
+              <td class="border border-purple-300">8GB</td>
+              <td class="border border-purple-300">13GB</td>
+              <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
+            </tr>
+          </tbody>
+        </table>
    </div>
 
 </section>
