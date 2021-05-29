@@ -36,7 +36,7 @@
             </thead>
             <tbody>
               <tr>
-                <td class="border border-purple-300">SLT broadband </td>
+                <td class="border border-purple-300">SLT </td>
                 <td>Rs.650   </td>
                 <td class="border border-purple-300">8GB</td>
                 <td class="border border-purple-300">10GB</td>
