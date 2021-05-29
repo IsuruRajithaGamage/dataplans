@@ -12,13 +12,11 @@
     <div class=" px-8 py-8 ">
         <div class="flex flex-wrap mx-2">
             <div class="w-full sm:w-1/2 nb-3 px-1">
-                <div class="p-2 bg-gradient-to-r from-yellow-400 h-full rounded-lg" >
+                <div class="p-2 bg-gradient-to-r from-yellow-400 h-full rounded-lg">
                     <h3 class="text-xl font-bold mb-3 text-white">Rs(500-1000)</h3>
                 </div>
-                
             </div>
-        </div>
-        
+        </div>   
       </div>
         <div>
           <div>
@@ -60,8 +58,7 @@
                 <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
               </tr>
             </tbody>
-          </table>
-          
+          </table>    
         </div>   
         <div>
           <h3 class="text-xl font-bold text-white px-10">VOICE</h3>
@@ -395,7 +392,6 @@
                 <div class="p-2 bg-gradient-to-r from-pink-600 h-full rounded-lg" >
                     <h3 class="text-xl font-bold mb-3">Rs(1000-2000)</h3>
                </div>
-              
             </div>
          </div>
          <table class="table-fixed text-xl text-center ">
