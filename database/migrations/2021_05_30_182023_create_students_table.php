@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class Create15002000tsTable extends Migration
+class CreateStudentsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,14 +13,11 @@ class Create15002000tsTable extends Migration
      */
     public function up()
     {
-        Schema::create('1500-2000ts', function (Blueprint $table) {
+        Schema::create('students', function (Blueprint $table) {
             $table->id();
-            $table->string('provider');
-            $table->integer('price');
-            $table->string('day');
-            $table->string('night');
-            $table->string('activate');
-        
+            $table->string("name",120);
+            $table->string("school",120);
+            $table->timestamps();
         });
     }
 
@@ -31,6 +28,6 @@ class Create15002000tsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('1500-2000ts');
+        Schema::dropIfExists('students');
     }
 }
