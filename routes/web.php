@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controller\table1Controller;
+use App\Http\Controllers\teacherController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,4 +17,4 @@ use App\Http\Controller\table1Controller;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('welcome',[table1Controller::class,'show']);
+Route::get('list',[teacherController::class,'show']);

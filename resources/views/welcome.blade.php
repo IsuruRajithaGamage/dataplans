@@ -35,28 +35,19 @@
               </tr>
             </thead>
             <tbody>
+           
+                  
+        
               <tr>
-                <td class="border border-purple-300">SLT </td>
+                <td class="border border-purple-300">slt</td>
                 <td>Rs.650   </td>
                 <td class="border border-purple-300">8GB</td>
                 <td class="border border-purple-300">10GB</td>
                 <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 visit mobitel.lk</th>
 
               </tr>
-              <tr class="bg-emerald-200">
-                <td class="border border-purple-300">Mobitel</td>
-                <td class="border border-purple-300">Rs.750</td>
-                <td class="border border-purple-300">13GB</td>
-                <td class="border border-purple-300">17GB</td>
-                <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
-              </tr>
-              <tr>
-                <td class="border border-purple-300">Dialog</td>
-                <td class="border border-purple-300">RS.600</td>
-                <td class="border border-purple-300">8GB</td>
-                <td class="border border-purple-300">13GB</td>
-                <th class="border border-purple-300">Dial #171# or 141 or sms INT D99 to 7678 </th>
-              </tr>
+             
+              
             </tbody>
           </table>    
         </div>   
